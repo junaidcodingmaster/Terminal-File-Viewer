@@ -16,7 +16,7 @@ logo = chalk.bold.blue(rawLogo)
 # Display
 print(logo)
 
-print("\nWelcome to Junaid File Editor , Made by Junaid.")
+print("\nWelcome to Terminal File Viewer , Made by Junaid.")
 print("\n")
 
 # Interface
